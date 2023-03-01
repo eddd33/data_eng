@@ -1,0 +1,1604 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "infinitif": "arise",
+                    "preterit": "arose",
+                    "partpass\u00e9": "arisen",
+                    "traduction": "s'\u00e9lever, survenir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "awake",
+                    "preterit": "awoke",
+                    "partpass\u00e9": "awoken",
+                    "traduction": "(se) r\u00e9veiller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bear",
+                    "preterit": "bore",
+                    "partpass\u00e9": "borne",
+                    "traduction": "supporter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "beat",
+                    "preterit": "beat",
+                    "partpass\u00e9": "beaten",
+                    "traduction": "battre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "become",
+                    "preterit": "became",
+                    "partpass\u00e9": "become",
+                    "traduction": "devenir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "begin",
+                    "preterit": "began",
+                    "partpass\u00e9": "begun",
+                    "traduction": "commencer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bend",
+                    "preterit": "bent",
+                    "partpass\u00e9": "bent",
+                    "traduction": "(se) courber"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bet",
+                    "preterit": "bet",
+                    "partpass\u00e9": "bet",
+                    "traduction": "parier"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bid",
+                    "preterit": "bid",
+                    "partpass\u00e9": "bid",
+                    "traduction": "offrir (un prix)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bind",
+                    "preterit": "bound",
+                    "partpass\u00e9": "bound",
+                    "traduction": "lier, relier"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bite",
+                    "preterit": "bit",
+                    "partpass\u00e9": "bitten",
+                    "traduction": "mordre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bleed",
+                    "preterit": "bled",
+                    "partpass\u00e9": "bled",
+                    "traduction": "saigner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "blow",
+                    "preterit": "blew",
+                    "partpass\u00e9": "blown",
+                    "traduction": "souffler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "break",
+                    "preterit": "broke",
+                    "partpass\u00e9": "broken",
+                    "traduction": "casser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "breed",
+                    "preterit": "bred",
+                    "partpass\u00e9": "bred",
+                    "traduction": "\u00e9lever (du b\u00e9tail)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "bring",
+                    "preterit": "brought",
+                    "partpass\u00e9": "brought",
+                    "traduction": "apporter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "build",
+                    "preterit": "built",
+                    "partpass\u00e9": "built",
+                    "traduction": "construire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "burn",
+                    "preterit": "burnt",
+                    "partpass\u00e9": "burnt",
+                    "traduction": "br\u00fbler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "burst",
+                    "preterit": "burst",
+                    "partpass\u00e9": "burst",
+                    "traduction": "\u00e9clater"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "buy",
+                    "preterit": "bought",
+                    "partpass\u00e9": "bought",
+                    "traduction": "acheter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "cast",
+                    "preterit": "cast",
+                    "partpass\u00e9": "cast",
+                    "traduction": "jeter, lancer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "catch",
+                    "preterit": "caught",
+                    "partpass\u00e9": "caught",
+                    "traduction": "attraper"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "choose",
+                    "preterit": "chose",
+                    "partpass\u00e9": "chosen",
+                    "traduction": "choisir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "cling",
+                    "preterit": "clung",
+                    "partpass\u00e9": "clung",
+                    "traduction": "s'accrocher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "come",
+                    "preterit": "came",
+                    "partpass\u00e9": "come",
+                    "traduction": "venir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "cost",
+                    "preterit": "cost",
+                    "partpass\u00e9": "cost",
+                    "traduction": "co\u00fbter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "creep",
+                    "preterit": "crept",
+                    "partpass\u00e9": "crept",
+                    "traduction": "ramper"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "cut",
+                    "preterit": "cut",
+                    "partpass\u00e9": "cut",
+                    "traduction": "couper"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "deal",
+                    "preterit": "dealt",
+                    "partpass\u00e9": "dealt",
+                    "traduction": "distribuer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "dig",
+                    "preterit": "dug",
+                    "partpass\u00e9": "dug",
+                    "traduction": "creuser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "do",
+                    "preterit": "did",
+                    "partpass\u00e9": "done",
+                    "traduction": "faire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "draw",
+                    "preterit": "drew",
+                    "partpass\u00e9": "drawn",
+                    "traduction": "dessiner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "dream",
+                    "preterit": "dreamt",
+                    "partpass\u00e9": "dreamt",
+                    "traduction": "r\u00eaver"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "drink",
+                    "preterit": "drank",
+                    "partpass\u00e9": "drunk",
+                    "traduction": "boire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "drive",
+                    "preterit": "drove",
+                    "partpass\u00e9": "driven",
+                    "traduction": "conduire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "dwell",
+                    "preterit": "dwelt",
+                    "partpass\u00e9": "dwelt",
+                    "traduction": "habiter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "eat",
+                    "preterit": "ate",
+                    "partpass\u00e9": "eaten",
+                    "traduction": "manger"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "fall",
+                    "preterit": "fell",
+                    "partpass\u00e9": "fallen",
+                    "traduction": "tomber"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "feed",
+                    "preterit": "fed",
+                    "partpass\u00e9": "fed",
+                    "traduction": "nourrir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "feel",
+                    "preterit": "felt",
+                    "partpass\u00e9": "felt",
+                    "traduction": "sentir, \u00e9prouver"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "fight",
+                    "preterit": "fought",
+                    "partpass\u00e9": "fought",
+                    "traduction": "combattre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "find",
+                    "preterit": "found",
+                    "partpass\u00e9": "found",
+                    "traduction": "trouver"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "flee",
+                    "preterit": "fled",
+                    "partpass\u00e9": "fled",
+                    "traduction": "s'enfuir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "fling",
+                    "preterit": "flung",
+                    "partpass\u00e9": "flung",
+                    "traduction": "jeter violemment"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "fly",
+                    "preterit": "flew",
+                    "partpass\u00e9": "flown",
+                    "traduction": "voler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "forbid",
+                    "preterit": "forbade",
+                    "partpass\u00e9": "forbidden",
+                    "traduction": "interdire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "forget",
+                    "preterit": "forgot",
+                    "partpass\u00e9": "forgotten",
+                    "traduction": "oublier"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "forgive",
+                    "preterit": "forgave",
+                    "partpass\u00e9": "forgiven",
+                    "traduction": "pardonner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "freeze",
+                    "preterit": "froze",
+                    "partpass\u00e9": "frozen",
+                    "traduction": "geler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "get",
+                    "preterit": "got",
+                    "partpass\u00e9": "got",
+                    "traduction": "obtenir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "give",
+                    "preterit": "gave",
+                    "partpass\u00e9": "given",
+                    "traduction": "donner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "go",
+                    "preterit": "went",
+                    "partpass\u00e9": "gone",
+                    "traduction": "aller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "grind",
+                    "preterit": "ground",
+                    "partpass\u00e9": "ground",
+                    "traduction": "moudre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "grow",
+                    "preterit": "grew",
+                    "partpass\u00e9": "grown",
+                    "traduction": "grandir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hang",
+                    "preterit": "hung",
+                    "partpass\u00e9": "hung",
+                    "traduction": "pendre, accrocher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "have",
+                    "preterit": "had",
+                    "partpass\u00e9": "had",
+                    "traduction": "avoir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hear",
+                    "preterit": "heard",
+                    "partpass\u00e9": "heard",
+                    "traduction": "entendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hide",
+                    "preterit": "hid",
+                    "partpass\u00e9": "hidden",
+                    "traduction": "(se) cacher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hit",
+                    "preterit": "hit",
+                    "partpass\u00e9": "hit",
+                    "traduction": "frapper, atteindre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hold",
+                    "preterit": "held",
+                    "partpass\u00e9": "held",
+                    "traduction": "tenir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "hurt",
+                    "preterit": "hurt",
+                    "partpass\u00e9": "hurt",
+                    "traduction": "blesser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "keep",
+                    "preterit": "kept",
+                    "partpass\u00e9": "kept",
+                    "traduction": "garder"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "kneel",
+                    "preterit": "knelt",
+                    "partpass\u00e9": "knelt",
+                    "traduction": "s'agenouiller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "know",
+                    "preterit": "knew",
+                    "partpass\u00e9": "known",
+                    "traduction": "savoir, conna\u00eetre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lay",
+                    "preterit": "laid",
+                    "partpass\u00e9": "laid",
+                    "traduction": "poser \u00e0 plat"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lead",
+                    "preterit": "led",
+                    "partpass\u00e9": "led",
+                    "traduction": "mener"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lean",
+                    "preterit": "leant",
+                    "partpass\u00e9": "leant",
+                    "traduction": "s'appuyer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "leap",
+                    "preterit": "leapt",
+                    "partpass\u00e9": "leapt",
+                    "traduction": "sauter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "learn",
+                    "preterit": "learnt",
+                    "partpass\u00e9": "learnt",
+                    "traduction": "apprendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "leave",
+                    "preterit": "left",
+                    "partpass\u00e9": "left",
+                    "traduction": "laisser, quitter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lend",
+                    "preterit": "lent",
+                    "partpass\u00e9": "lent",
+                    "traduction": "pr\u00eater"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "let",
+                    "preterit": "let",
+                    "partpass\u00e9": "let",
+                    "traduction": "permettre, louer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lie",
+                    "preterit": "lay",
+                    "partpass\u00e9": "lain",
+                    "traduction": "\u00eatre \u00e9tendu"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "light",
+                    "preterit": "lit",
+                    "partpass\u00e9": "lit",
+                    "traduction": "allumer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "lose",
+                    "preterit": "lost",
+                    "partpass\u00e9": "lost",
+                    "traduction": "perdre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "make",
+                    "preterit": "made",
+                    "partpass\u00e9": "made",
+                    "traduction": "faire, fabriquer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "mean",
+                    "preterit": "meant",
+                    "partpass\u00e9": "meant",
+                    "traduction": "signifier"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "meet",
+                    "preterit": "met",
+                    "partpass\u00e9": "met",
+                    "traduction": "(se) rencontrer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "mow",
+                    "preterit": "mowed",
+                    "partpass\u00e9": "mown",
+                    "traduction": "tondre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "overcome",
+                    "preterit": "overcame",
+                    "partpass\u00e9": "overcome",
+                    "traduction": "surmonter, vaincre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "pay",
+                    "preterit": "paid",
+                    "partpass\u00e9": "paid",
+                    "traduction": "payer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "put",
+                    "preterit": "put",
+                    "partpass\u00e9": "put",
+                    "traduction": "mettre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "quit",
+                    "preterit": "quit",
+                    "partpass\u00e9": "quit",
+                    "traduction": "cesser (de)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "read",
+                    "preterit": "read",
+                    "partpass\u00e9": "read",
+                    "traduction": "lire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "rid",
+                    "preterit": "rid",
+                    "partpass\u00e9": "rid",
+                    "traduction": "d\u00e9barrasser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "ride",
+                    "preterit": "rode",
+                    "partpass\u00e9": "ridden",
+                    "traduction": "chevaucher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "ring",
+                    "preterit": "rang",
+                    "partpass\u00e9": "rung",
+                    "traduction": "sonner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "rise",
+                    "preterit": "rose",
+                    "partpass\u00e9": "risen",
+                    "traduction": "s'\u00e9lever, se lever"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "run",
+                    "preterit": "ran",
+                    "partpass\u00e9": "run",
+                    "traduction": "courir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "saw",
+                    "preterit": "sawed",
+                    "partpass\u00e9": "sawn",
+                    "traduction": "scier"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "say",
+                    "preterit": "said",
+                    "partpass\u00e9": "said",
+                    "traduction": "dire"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "see",
+                    "preterit": "saw",
+                    "partpass\u00e9": "seen",
+                    "traduction": "voir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "seek",
+                    "preterit": "sought",
+                    "partpass\u00e9": "sought",
+                    "traduction": "chercher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sell",
+                    "preterit": "sold",
+                    "partpass\u00e9": "sold",
+                    "traduction": "vendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "send",
+                    "preterit": "sent",
+                    "partpass\u00e9": "sent",
+                    "traduction": "envoyer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "set",
+                    "preterit": "set",
+                    "partpass\u00e9": "set",
+                    "traduction": "fixer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sew",
+                    "preterit": "sewed",
+                    "partpass\u00e9": "sewn",
+                    "traduction": "coudre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shake",
+                    "preterit": "shook",
+                    "partpass\u00e9": "shaken",
+                    "traduction": "secouer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shear",
+                    "preterit": "sheared",
+                    "partpass\u00e9": "shorn",
+                    "traduction": "tondre (des moutons)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shed",
+                    "preterit": "shed",
+                    "partpass\u00e9": "shed",
+                    "traduction": "verser (des larmes)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shine",
+                    "preterit": "shone",
+                    "partpass\u00e9": "shone",
+                    "traduction": "briller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shoe",
+                    "preterit": "shod",
+                    "partpass\u00e9": "shod",
+                    "traduction": "ferrer, chausser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shoot",
+                    "preterit": "shot",
+                    "partpass\u00e9": "shot",
+                    "traduction": "tirer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "show",
+                    "preterit": "showed",
+                    "partpass\u00e9": "shown",
+                    "traduction": "montrer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shrink",
+                    "preterit": "shrank",
+                    "partpass\u00e9": "shrunk",
+                    "traduction": "r\u00e9tr\u00e9cir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "shut",
+                    "preterit": "shut",
+                    "partpass\u00e9": "shut",
+                    "traduction": "fermer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sing",
+                    "preterit": "sang",
+                    "partpass\u00e9": "sung",
+                    "traduction": "chanter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sink",
+                    "preterit": "sank",
+                    "partpass\u00e9": "sunk",
+                    "traduction": "couler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sit",
+                    "preterit": "sat",
+                    "partpass\u00e9": "sat",
+                    "traduction": "\u00eatre assis"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sleep",
+                    "preterit": "slept",
+                    "partpass\u00e9": "slept",
+                    "traduction": "dormir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "slide",
+                    "preterit": "slid",
+                    "partpass\u00e9": "slid",
+                    "traduction": "glisser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sling",
+                    "preterit": "slung",
+                    "partpass\u00e9": "slung",
+                    "traduction": "lancer (avec force)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "slink",
+                    "preterit": "slunk",
+                    "partpass\u00e9": "slunk",
+                    "traduction": "aller furtivement"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "slit",
+                    "preterit": "slit",
+                    "partpass\u00e9": "slit",
+                    "traduction": "fendre, inciser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "smell",
+                    "preterit": "smelt",
+                    "partpass\u00e9": "smelt",
+                    "traduction": "sentir (odorat)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sow",
+                    "preterit": "sowed",
+                    "partpass\u00e9": "sown",
+                    "traduction": "semer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "speak",
+                    "preterit": "spoke",
+                    "partpass\u00e9": "spoken",
+                    "traduction": "parler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "speed",
+                    "preterit": "sped",
+                    "partpass\u00e9": "sped",
+                    "traduction": "aller \u00e0 toute vitesse"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spell",
+                    "preterit": "spelt",
+                    "partpass\u00e9": "spelt",
+                    "traduction": "\u00e9peler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spend",
+                    "preterit": "spent",
+                    "partpass\u00e9": "spent",
+                    "traduction": "d\u00e9penser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spill",
+                    "preterit": "spilt",
+                    "partpass\u00e9": "spilt",
+                    "traduction": "renverser (un liquide)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spit",
+                    "preterit": "spat",
+                    "partpass\u00e9": "spat",
+                    "traduction": "cracher"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "split",
+                    "preterit": "split",
+                    "partpass\u00e9": "split",
+                    "traduction": "fendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spoil",
+                    "preterit": "spoilt",
+                    "partpass\u00e9": "spoilt",
+                    "traduction": "g\u00e2cher, g\u00e2ter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spread",
+                    "preterit": "spread",
+                    "partpass\u00e9": "spread",
+                    "traduction": "r\u00e9pandre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "spring",
+                    "preterit": "sprang",
+                    "partpass\u00e9": "sprung",
+                    "traduction": "jaillir, bondir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "stand",
+                    "preterit": "stood",
+                    "partpass\u00e9": "stood",
+                    "traduction": "\u00eatre debout"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "steal",
+                    "preterit": "stole",
+                    "partpass\u00e9": "stolen",
+                    "traduction": "voler, d\u00e9rober"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "stick",
+                    "preterit": "stuck",
+                    "partpass\u00e9": "stuck",
+                    "traduction": "coller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sting",
+                    "preterit": "stung",
+                    "partpass\u00e9": "stung",
+                    "traduction": "piquer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "stink",
+                    "preterit": "stank",
+                    "partpass\u00e9": "stunk",
+                    "traduction": "puer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "stride",
+                    "preterit": "strode",
+                    "partpass\u00e9": "stridden",
+                    "traduction": "marcher \u00e0 grands pas"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "strike",
+                    "preterit": "struck",
+                    "partpass\u00e9": "struck",
+                    "traduction": "frapper"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "string",
+                    "preterit": "strung",
+                    "partpass\u00e9": "strung",
+                    "traduction": "enfiler, tendre (une corde)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "strive",
+                    "preterit": "strove",
+                    "partpass\u00e9": "striven",
+                    "traduction": "s'efforcer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "swear",
+                    "preterit": "swore",
+                    "partpass\u00e9": "sworn",
+                    "traduction": "jurer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "sweep",
+                    "preterit": "swept",
+                    "partpass\u00e9": "swept",
+                    "traduction": "balayer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "swell",
+                    "preterit": "swelled",
+                    "partpass\u00e9": "swollen",
+                    "traduction": "enfler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "swim",
+                    "preterit": "swam",
+                    "partpass\u00e9": "swum",
+                    "traduction": "nager"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "swing",
+                    "preterit": "swung",
+                    "partpass\u00e9": "swung",
+                    "traduction": "se balancer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "take",
+                    "preterit": "took",
+                    "partpass\u00e9": "taken",
+                    "traduction": "prendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "teach",
+                    "preterit": "taught",
+                    "partpass\u00e9": "taught",
+                    "traduction": "enseigner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "tear",
+                    "preterit": "tore",
+                    "partpass\u00e9": "torn",
+                    "traduction": "d\u00e9chirer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "tell",
+                    "preterit": "told",
+                    "partpass\u00e9": "told",
+                    "traduction": "dire, raconter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "think",
+                    "preterit": "thought",
+                    "partpass\u00e9": "thought",
+                    "traduction": "penser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "throw",
+                    "preterit": "threw",
+                    "partpass\u00e9": "thrown",
+                    "traduction": "jeter"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "thrust",
+                    "preterit": "thrust",
+                    "partpass\u00e9": "thrust",
+                    "traduction": "enfoncer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "tread",
+                    "preterit": "trod",
+                    "partpass\u00e9": "trodden",
+                    "traduction": "fouler aux pieds"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "undergo",
+                    "preterit": "underwent",
+                    "partpass\u00e9": "undergone",
+                    "traduction": "subir"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "understand",
+                    "preterit": "understood",
+                    "partpass\u00e9": "understood",
+                    "traduction": "comprendre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "upset",
+                    "preterit": "upset",
+                    "partpass\u00e9": "upset",
+                    "traduction": "bouleverser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "wake",
+                    "preterit": "woke",
+                    "partpass\u00e9": "woken",
+                    "traduction": "(se) r\u00e9veiller"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "wear",
+                    "preterit": "wore",
+                    "partpass\u00e9": "worn",
+                    "traduction": "porter (des v\u00eatements)"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "weave",
+                    "preterit": "wove",
+                    "partpass\u00e9": "woven",
+                    "traduction": "tisser"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "weep",
+                    "preterit": "wept",
+                    "partpass\u00e9": "wept",
+                    "traduction": "pleurer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "win",
+                    "preterit": "won",
+                    "partpass\u00e9": "won",
+                    "traduction": "gagner"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "wind",
+                    "preterit": "wound",
+                    "partpass\u00e9": "wound",
+                    "traduction": "enrouler"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "withdraw",
+                    "preterit": "withdrew",
+                    "partpass\u00e9": "withdrawn",
+                    "traduction": "(se) retirer"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "wring",
+                    "preterit": "wrung",
+                    "partpass\u00e9": "wrung",
+                    "traduction": "tordre"
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "infinitif": "write",
+                    "preterit": "wrote",
+                    "partpass\u00e9": "written",
+                    "traduction": "\u00e9crire"
+                }
+            ]
+        }
+    ]
+}
