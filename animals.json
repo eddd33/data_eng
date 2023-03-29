@@ -1,0 +1,214 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "chien",
+                    "content": [
+                        "ox",
+                        "pig",
+                        "rat",
+                        "dog"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "chat",
+                    "content": [
+                        "cow",
+                        "rabbit",
+                        "cat",
+                        "duck"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "cheval",
+                    "content": [
+                        "lamb",
+                        "donkey",
+                        "rat",
+                        "horse"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "tigre",
+                    "content": [
+                        "horse",
+                        "dog",
+                        "cow",
+                        "tiger"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "mouton",
+                    "content": [
+                        "duck",
+                        "bull",
+                        "sheep",
+                        "rabbit"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "vache",
+                    "content": [
+                        "cow",
+                        "monkey",
+                        "rat",
+                        "dog"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "lapin",
+                    "content": [
+                        "cat",
+                        "tiger",
+                        "donkey",
+                        "rabbit"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "cochon",
+                    "content": [
+                        "lamb",
+                        "pig",
+                        "duck",
+                        "cow"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "boeuf",
+                    "content": [
+                        "ox",
+                        "duck",
+                        "horse",
+                        "tiger"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "agneau",
+                    "content": [
+                        "dog",
+                        "donkey",
+                        "lamb",
+                        "duck"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "taureau",
+                    "content": [
+                        "tiger",
+                        "duck",
+                        "rabbit",
+                        "bull"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "rat",
+                    "content": [
+                        "rabbit",
+                        "pig",
+                        "rat",
+                        "cow"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e2ne",
+                    "content": [
+                        "pig",
+                        "rabbit",
+                        "duck",
+                        "donkey"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "singe",
+                    "content": [
+                        "monkey",
+                        "lamb",
+                        "bull",
+                        "dog"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "canard",
+                    "content": [
+                        "duck",
+                        "cow",
+                        "sheep",
+                        "rat"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

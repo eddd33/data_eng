@@ -1,0 +1,298 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "a piece of cake",
+                    "content": [
+                        " les doigts dans le nez",
+                        " rouler quelqu'un dans la farine",
+                        " faire les yeux doux \u00e0 quelqu'un",
+                        " filer \u00e0 l'anglaise"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "faint",
+                    "content": [
+                        " mouton de Panurge",
+                        " quand les poules auront des dents",
+                        " soupe au lait",
+                        " tomber dans les pommes"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to oggle at someone",
+                    "content": [
+                        " donner un coup de main",
+                        " tirer les vers du nez",
+                        " \u00eatre le dindon de la farce",
+                        " faire les yeux doux \u00e0 quelqu'un"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to have a thin skin",
+                    "content": [
+                        " quand les poules auront des dents",
+                        " les doigts dans le nez",
+                        " \u00eatre press\u00e9",
+                        " soupe au lait"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to be a pain in the neck",
+                    "content": [
+                        " \u00eatre un casse-pieds",
+                        " faire faux bond \u00e0 quelqu'un",
+                        " un froid de canard",
+                        " \u00eatre le dindon de la farce"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "straight away",
+                    "content": [
+                        " tout de suite",
+                        " donner un coup de main",
+                        " mouton de Panurge",
+                        " se mettre sur son 31"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to be in a hurry",
+                    "content": [
+                        " faire faux bond \u00e0 quelqu'un",
+                        " tomber dans les pommes",
+                        " \u00eatre press\u00e9",
+                        " mouton de Panurge"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to squeeze the rich until the pips squeak",
+                    "content": [
+                        " \u00eatre press\u00e9",
+                        " les doigts dans le nez",
+                        " tirer les vers du nez",
+                        " mouton de Panurge"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to be a boor",
+                    "content": [
+                        " \u00eatre un rustre",
+                        " tout de suite",
+                        " un froid de canard",
+                        " quand les poules auront des dents"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "with one's hands tied behind one's back",
+                    "content": [
+                        " les doigts dans le nez",
+                        " rouler quelqu'un dans la farine",
+                        " \u00eatre le dindon de la farce",
+                        " filer \u00e0 l'anglaise"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "make a meal of it",
+                    "content": [
+                        " en faire tout un plat",
+                        " se mettre sur son 31",
+                        " tomber dans les pommes",
+                        " \u00eatre le dindon de la farce"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to get dressed up to the nines",
+                    "content": [
+                        " \u00eatre un casse-pieds",
+                        " donner un coup de main",
+                        " se mettre sur son 31",
+                        " soupe au lait"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to take a French leave",
+                    "content": [
+                        " se mettre sur son 31",
+                        " \u00eatre le dindon de la farce",
+                        " filer \u00e0 l'anglaise",
+                        " \u00eatre un rustre"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to stand someone up",
+                    "content": [
+                        " faire faux bond \u00e0 quelqu'un",
+                        " \u00eatre le dindon de la farce",
+                        " casser la pipe",
+                        " se mettre sur son 31"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "a freezing cold",
+                    "content": [
+                        " faire les yeux doux \u00e0 quelqu'un",
+                        " soupe au lait",
+                        " filer \u00e0 l'anglaise",
+                        " un froid de canard"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to follow like sheep",
+                    "content": [
+                        " tomber dans les pommes",
+                        " \u00eatre un casse-pieds",
+                        " faire faux bond \u00e0 quelqu'un",
+                        " mouton de Panurge"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "when pigs can fly",
+                    "content": [
+                        " un froid de canard",
+                        " donner un coup de main",
+                        " faire faux bond \u00e0 quelqu'un",
+                        " quand les poules auront des dents"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to give a hand",
+                    "content": [
+                        " donner un coup de main",
+                        " mouton de Panurge",
+                        " soupe au lait",
+                        " faire faux bond \u00e0 quelqu'un"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "to kick the bucket",
+                    "content": [
+                        " faire les yeux doux \u00e0 quelqu'un",
+                        " les doigts dans le nez",
+                        " casser la pipe",
+                        " en faire tout un plat"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "be the butt of the joke",
+                    "content": [
+                        " \u00eatre le dindon de la farce",
+                        " en faire tout un plat",
+                        " faire faux bond \u00e0 quelqu'un",
+                        " tomber dans les pommes"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "pull the wool over someone's eyes",
+                    "content": [
+                        " rouler quelqu'un dans la farine",
+                        " donner un coup de main",
+                        " \u00eatre press\u00e9",
+                        " faire les yeux doux \u00e0 quelqu'un"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}
