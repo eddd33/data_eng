@@ -1,0 +1,368 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "apr\u00e8s",
+                    "content": [
+                        " afterward",
+                        " cycling",
+                        " sailing",
+                        " indoor"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "parc d'attractions",
+                    "content": [
+                        " amusement park ",
+                        " enroll in",
+                        " sewing",
+                        " DIY "
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "attraction",
+                    "content": [
+                        " outdoor",
+                        " crafts",
+                        " keep fit ",
+                        " attraction"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "avant",
+                    "content": [
+                        " trail",
+                        " jog",
+                        " beforehand",
+                        " gardening "
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "jeu de soci\u00e9t\u00e9",
+                    "content": [
+                        " season ticket",
+                        " board game ",
+                        " beforehand",
+                        " outdoor"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e9checs",
+                    "content": [
+                        " eat out",
+                        " gardening ",
+                        " chess",
+                        " outdoor"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "collectionner",
+                    "content": [
+                        " sailing",
+                        " hike",
+                        " season ticket",
+                        " collect"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "travaux manuels",
+                    "content": [
+                        " relax",
+                        " energetic",
+                        " crafts",
+                        " outdoor"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "cyclisme",
+                    "content": [
+                        " sewing",
+                        " indoor",
+                        " energetic",
+                        " cycling"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "bricolage",
+                    "content": [
+                        " subscription",
+                        " keep fit ",
+                        " collect",
+                        " DIY "
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "manger au restaurant",
+                    "content": [
+                        " season ticket",
+                        " board game ",
+                        " energetic",
+                        " eat out"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e9nergique",
+                    "content": [
+                        " energetic",
+                        " sewing",
+                        " work out",
+                        " crafts"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "s'inscrire \u00e0",
+                    "content": [
+                        " enroll in",
+                        " chess",
+                        " jog",
+                        " board game "
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "jardinage",
+                    "content": [
+                        " collect",
+                        " gardening ",
+                        " jog",
+                        " indoor"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "randonner",
+                    "content": [
+                        " jog",
+                        " hike",
+                        " outdoor",
+                        " work out"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "int\u00e9rieur",
+                    "content": [
+                        " enroll in",
+                        " indoor",
+                        " outdoor",
+                        " keep fit "
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "ext\u00e9rieur",
+                    "content": [
+                        " collect",
+                        " jog",
+                        " outdoor",
+                        " crafts"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "faire du jogging",
+                    "content": [
+                        " energetic",
+                        " sewing",
+                        " relax",
+                        " jog"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "garder la forme",
+                    "content": [
+                        " work out",
+                        " attraction",
+                        " keep fit ",
+                        " sewing"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "se reposer",
+                    "content": [
+                        " relax",
+                        " sewing",
+                        " chess",
+                        " gardening "
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "voile",
+                    "content": [
+                        " attraction",
+                        " sailing",
+                        " cycling",
+                        " relax"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "abonnement",
+                    "content": [
+                        " outdoor",
+                        " cycling",
+                        " indoor",
+                        " season ticket"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "couture",
+                    "content": [
+                        " season ticket",
+                        " DIY ",
+                        " sewing",
+                        " indoor"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "abonnement",
+                    "content": [
+                        " energetic",
+                        " beforehand",
+                        " DIY ",
+                        " subscription"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "sentier",
+                    "content": [
+                        " collect",
+                        " trail",
+                        " crafts",
+                        " relax"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "faire de l'exercice",
+                    "content": [
+                        " work out",
+                        " sewing",
+                        " outdoor",
+                        " chess"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

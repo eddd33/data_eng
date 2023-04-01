@@ -1,0 +1,270 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "pi\u00e8ce jointe",
+                    "content": [
+                        " recipient",
+                        " attachment ",
+                        " bulletin board",
+                        " submit"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "le plus t\u00f4t possible",
+                    "content": [
+                        " rest assured",
+                        " bulletin board",
+                        " at your earliest convenience",
+                        " stationery"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "panneau d'affichage",
+                    "content": [
+                        " memo",
+                        " attachment ",
+                        " look forward to",
+                        " bulletin board"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "courrier",
+                    "content": [
+                        " at your earliest convenience",
+                        " stamp",
+                        " correspondance",
+                        " stationery"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "enveloppe",
+                    "content": [
+                        " zip code",
+                        " enveloppe",
+                        " inbox",
+                        " memo"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "bo\u00eete de r\u00e9ception",
+                    "content": [
+                        " stationery",
+                        " attachment ",
+                        " letterhead",
+                        " inbox"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "en-t\u00eate",
+                    "content": [
+                        " letterhead",
+                        " postage",
+                        " attachment ",
+                        " stationery"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "attendre avec impatience",
+                    "content": [
+                        " look forward to",
+                        " attachment ",
+                        " postage",
+                        " letterhead"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "note de service",
+                    "content": [
+                        " weight",
+                        " memo",
+                        " attachment ",
+                        " letterhead"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "affranchissement",
+                    "content": [
+                        " at your earliest convenience",
+                        " rest assured",
+                        " postage",
+                        " weight"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "destinataire",
+                    "content": [
+                        " at your earliest convenience",
+                        " postage",
+                        " recipient",
+                        " inbox"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "soyez assur\u00e9 que",
+                    "content": [
+                        " at your earliest convenience",
+                        " enveloppe",
+                        " rest assured",
+                        " correspondance"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "exp\u00e9diteur",
+                    "content": [
+                        " look forward to",
+                        " postage",
+                        " inbox",
+                        " sender"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "timbre",
+                    "content": [
+                        " attachment ",
+                        " recipient",
+                        " stamp",
+                        " inbox"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "papeterie",
+                    "content": [
+                        " at your earliest convenience",
+                        " inbox",
+                        " stationery",
+                        " letterhead"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "soumettre",
+                    "content": [
+                        " correspondance",
+                        " letterhead",
+                        " submit",
+                        " stationery"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "extr\u00eame",
+                    "content": [
+                        " bulletin board",
+                        " utmost",
+                        " letterhead",
+                        " stamp"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "poids",
+                    "content": [
+                        " utmost",
+                        " sender",
+                        " rest assured",
+                        " weight"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "code postal",
+                    "content": [
+                        " stationery",
+                        " submit",
+                        " at your earliest convenience",
+                        " zip code"
+                    ],
+                    "correct": 3
+                }
+            ]
+        }
+    ]
+}

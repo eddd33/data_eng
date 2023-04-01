@@ -1,0 +1,382 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "souffler",
+                    "content": [
+                        " snow",
+                        " breeze",
+                        " blow",
+                        " heatwave"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "brise",
+                    "content": [
+                        " heatwave",
+                        " shower",
+                        " breeze",
+                        " slippery"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "ensoleill\u00e9",
+                    "content": [
+                        " storm",
+                        " bright",
+                        " lightning",
+                        " weight"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "nuage",
+                    "content": [
+                        " high",
+                        " cloud",
+                        " slippery",
+                        " storm"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "courant d'air",
+                    "content": [
+                        " blow",
+                        " thunder",
+                        " weight",
+                        " draft"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "s\u00e9cheresse",
+                    "content": [
+                        " thunder",
+                        " snow",
+                        " shower",
+                        " drought"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "inondation",
+                    "content": [
+                        " shower",
+                        " mild",
+                        " snowfall",
+                        " flood"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "brouillard",
+                    "content": [
+                        " heatwave",
+                        " sunny",
+                        " pr\u00e9vision",
+                        " fog"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "forecast",
+                    "content": [
+                        " shower",
+                        " pr\u00e9vision",
+                        " weight",
+                        " fog"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "gel",
+                    "content": [
+                        " storm",
+                        " cloud",
+                        " forecast",
+                        " fog"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "dangereux",
+                    "content": [
+                        " blow",
+                        " hazardous ",
+                        " slippery",
+                        " forecast"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "canicule",
+                    "content": [
+                        " storm",
+                        " breeze",
+                        " high",
+                        " heatwave"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "temp\u00e9rature maximale",
+                    "content": [
+                        " high",
+                        " rainfall",
+                        " bright",
+                        " light"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "l\u00e9ger",
+                    "content": [
+                        " hazardous ",
+                        " shower",
+                        " breeze",
+                        " light"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e9clair",
+                    "content": [
+                        " lightning",
+                        " high",
+                        " light",
+                        " weight"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "doux",
+                    "content": [
+                        " overcast",
+                        " pr\u00e9vision",
+                        " wind ",
+                        " mild"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "couvert",
+                    "content": [
+                        " overcast",
+                        " fog",
+                        " draft",
+                        " weight"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "pr\u00e9cipitations",
+                    "content": [
+                        " lightning",
+                        " wind ",
+                        " rainfall",
+                        " fog"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "averse",
+                    "content": [
+                        " bright",
+                        " heatwave",
+                        " lightning",
+                        " shower"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "glissant",
+                    "content": [
+                        " drought",
+                        " slippery",
+                        " light",
+                        " storm"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "chute de neige",
+                    "content": [
+                        " snowfall",
+                        " rainfall",
+                        " flood",
+                        " sunny"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "neige",
+                    "content": [
+                        " blow",
+                        " snow",
+                        " fog",
+                        " high"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "orage",
+                    "content": [
+                        " sunny",
+                        " storm",
+                        " hazardous ",
+                        " fog"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "tonnerre",
+                    "content": [
+                        " bright",
+                        " blow",
+                        " pr\u00e9vision",
+                        " thunder"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e9claircie",
+                    "content": [
+                        " sunny",
+                        " storm",
+                        " overcast",
+                        " blow"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "pluvieux",
+                    "content": [
+                        " weight",
+                        " shower",
+                        " cloud",
+                        " light"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "vent",
+                    "content": [
+                        " cloud",
+                        " draft",
+                        " wind ",
+                        " forecast"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}

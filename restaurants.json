@@ -1,0 +1,326 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "boisson",
+                    "content": [
+                        " moist",
+                        " junk food",
+                        " beverage",
+                        " nutritious"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "addition",
+                    "content": [
+                        " diner",
+                        " spakling",
+                        " nutritious",
+                        " check"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "plat",
+                    "content": [
+                        " self-service",
+                        " waiter",
+                        " tasty",
+                        " course"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "couverts",
+                    "content": [
+                        " seafood",
+                        " tip",
+                        " cutlery",
+                        " check"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "client",
+                    "content": [
+                        " spakling",
+                        " recommend",
+                        " wholesome",
+                        " diner"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "sain",
+                    "content": [
+                        " tasty",
+                        " recipe",
+                        " moist",
+                        " healthful"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "malbouffe",
+                    "content": [
+                        " waiter",
+                        " junk food",
+                        " beverage",
+                        " moist"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "moelleux",
+                    "content": [
+                        " spakling",
+                        " junk food",
+                        " moist",
+                        " healthful"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "serviette de table",
+                    "content": [
+                        " napkin",
+                        " seafood",
+                        " healthful",
+                        " course"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "nutritif",
+                    "content": [
+                        " starter",
+                        " junk food",
+                        " nutritious",
+                        " takeout"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "recette",
+                    "content": [
+                        " tasty",
+                        " spakling",
+                        " recipe",
+                        " tablecloth"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "recommander",
+                    "content": [
+                        " moist",
+                        " recommend",
+                        " beverage",
+                        " spakling"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "fruits de mer",
+                    "content": [
+                        " self-service",
+                        " healthful",
+                        " seafood",
+                        " spakling"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "libre-servce",
+                    "content": [
+                        " waiter",
+                        " self-service",
+                        " spakling",
+                        " spicy"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "p\u00e9tillant",
+                    "content": [
+                        " cutlery",
+                        " tip",
+                        " spicy",
+                        " spakling"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "\u00e9pic\u00e9",
+                    "content": [
+                        " diner",
+                        " napkin",
+                        " spicy",
+                        " waiter"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "entr\u00e9e",
+                    "content": [
+                        " diner",
+                        " starter",
+                        " healthful",
+                        " wholesome"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "nappe",
+                    "content": [
+                        " waiter",
+                        " junk food",
+                        " tablecloth",
+                        " cutlery"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "repas \u00e0 emporter",
+                    "content": [
+                        " takeout",
+                        " recommend",
+                        " waiter",
+                        " tablecloth"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "savoureux",
+                    "content": [
+                        " wholesome",
+                        " takeout",
+                        " healthful",
+                        " tasty"
+                    ],
+                    "correct": 3
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "pourboire",
+                    "content": [
+                        " tip",
+                        " waiter",
+                        " spicy",
+                        " course"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "serveur",
+                    "content": [
+                        " waiter",
+                        " beverage",
+                        " check",
+                        " course"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "question": "sain",
+                    "content": [
+                        " nutritious",
+                        " diner",
+                        " tasty",
+                        " wholesome"
+                    ],
+                    "correct": 3
+                }
+            ]
+        }
+    ]
+}
